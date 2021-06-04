@@ -1,7 +1,10 @@
 body {
     background-color:white;
-    background-image: url(../images/imgback.jpg);
-
+    background-image: url(../images/ban.jpg);
+    width: 100%;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
 }
 
 /* hr {
@@ -16,14 +19,14 @@ body {
     float: right;
 }
 .menu ul {
-    float: right;
+    /* float: right; */
     list-style: none;
-    padding-right: 0px;
+    padding-right: 40px;
     margin: 20px;
-    font-family: monospace;
+    font-family: "Cookie", cursive;
     text-decoration: none;
     box-sizing: border-box;
-    font-size: 20px;
+    font-size: 25px;
 
 }
 .logo {
