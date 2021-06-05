@@ -2,8 +2,6 @@ body {
     overflow: hidden;
     margin: 0;
     padding: 0;
-}
-.main {
     background: url(/images/ban.jpg) no-repeat;
     background-size: cover;
     display: table;
@@ -11,6 +9,14 @@ body {
     height: 100vh;
     position: relative;
 }
+/* .main {
+    background: url(/images/ban.jpg) no-repeat;
+    background-size: cover;
+    display: table;
+    width: 100%;
+    height: 100vh;
+    position: relative;
+} */
 .text-pop-up {
     text-align: center;
     font-size: 6rem;
