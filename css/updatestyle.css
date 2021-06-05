@@ -10,7 +10,8 @@ body {
     position: relative; */
 }
 .main {
-    background: url(../images/ban.jpg) no-repeat;
+/*     background: url(../images/ban.jpg) no-repeat; */
+    background-image: url(../images/ban.jpg);
     background-size: cover;
     display: table;
     width: 100%;
